@@ -5,4 +5,4 @@ RUN addgroup -g 1000 -S www-data \
 
 COPY . /etc/nginx/
 RUN mkdir /var/cache/fpm
-EXPOSE 8001
+EXPOSE 3000
