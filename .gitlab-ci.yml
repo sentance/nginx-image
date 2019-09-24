@@ -1,6 +1,6 @@
 stages:
   - build
-  - deploy
+
 
 variables:
   IMAGE_TAG: $CI_REGISTRY_IMAGE:$CI_JOB_ID
