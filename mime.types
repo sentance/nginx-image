@@ -36,7 +36,8 @@ types {
     application/vnd.apple.mpegurl                    m3u8;
     application/vnd.google-earth.kml+xml             kml;
     application/vnd.google-earth.kmz                 kmz;
-    application/vnd.ms-excel                         xls;
+    application/octet-stream                         xls;
+#    application/vnd.ms-excel                         xls;
     application/vnd.ms-fontobject                    eot;
     application/vnd.ms-powerpoint                    ppt;
     application/vnd.oasis.opendocument.graphics      odg;
